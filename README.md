@@ -1,2 +1,2 @@
 # Cafe Menu
- My first repository
+ My first ever repository on Github
